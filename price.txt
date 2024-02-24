@@ -1,4 +1,4 @@
 red - 2 cad
 blue - 4 cad
 green - 6 cad
-yellow - 8 cad
+yellow - 7 cad
