@@ -1,2 +1,4 @@
 red-blue,green
 green-red, blue
+brown - red black
+lemon - green and yellow
