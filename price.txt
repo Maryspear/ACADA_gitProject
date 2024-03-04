@@ -3,3 +3,5 @@ blue - 4 cad
 green - 6 cad
 yellow - 7 cad
 green -  8 cad
+purple - 3 cad
+black - 7 cad
